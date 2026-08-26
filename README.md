@@ -7,8 +7,8 @@
   I am a developer and student with a strong passion for software development and network operations. With hands-on experience in building web applications using Laravel, converting mobile apps, and exploring network engineering, I am continuously expanding my technical skill set.
 </p>
 
-[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:delphianor@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/reynaldi_delphiano) 
+[![Mail Badge](https://img.shields.io/badge/-delphianor@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:delphianor@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@reynaldi_delphiano__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/reynaldi_delphiano) 
 [![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
 [![Tiktok](https://img.shields.io/badge/-satriaabaharii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
