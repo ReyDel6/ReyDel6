@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Reynaldi_Delphiano-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldi-delphiano)
 [![Tiktok](https://img.shields.io/badge/-Rey-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rajajasa7/)
 [![](https://komarev.com/ghpvc/?username=ReyDel6&color=blue&label=Profile%20Views)](https://github.com/ReyDel6)
-[![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
+[![](https://img.shields.io/github/followers/ReyDel6?label=GitHub%20Followers)](https://github.com/ReyDel6)
 
 ---
 
