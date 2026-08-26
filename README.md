@@ -7,12 +7,12 @@
   I am a developer and student with a strong passion for software development and network operations. With hands-on experience in building web applications using Laravel, converting mobile apps, and exploring network engineering, I am continuously expanding my technical skill set.
 </p>
 
-<p align="center">
-  <a href="mailto:delphianor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="delphianor@gmail.com"></a>
-  <a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/reynaldi_delphiano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="reynaldi_delphiano"></a>
-  <img src="https://komarev.com/ghpvc/?username=username-github-kamu&style=for-the-badge&color=blueviolet" alt="Profile Views">
-</p>
+[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:satriaabaharii@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/satriabaharii_) 
+[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-bahari/) 
+[![Tiktok](https://img.shields.io/badge/-satriaabaharii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@satriaabaharii/)
+[![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
+[![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
 ---
 
