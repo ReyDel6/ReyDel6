@@ -23,6 +23,8 @@
 </p>
 
 ---
+### Tools
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
 
 ### 📊 GitHub Statistics
 
