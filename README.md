@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Reynaldi Delphiano</h1>
-  <h3>A Web and Mobile Developer & Network Enthusiast</h3>
+  <h3>A Web and Mobile Developer</h3>
 </div>
 
 <p align="center">
