@@ -24,7 +24,7 @@
 
 ---
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,flyenv,laragon,xampp)
 
 ### 📊 GitHub Statistics
 
