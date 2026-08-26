@@ -19,7 +19,7 @@
 ### 🛠️ Core Tech Stacks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,php,flutter,firebase,html,css,javascript,mysql,git,vscode,dockerts,next,tailwind,kotlin)" alt="Tech Stacks">
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,flutter,firebase,html,css,javascript,mysql,git,docker,ts,next,tailwind,kotlin)" alt="Tech Stacks">
 </p>
 
 ---
