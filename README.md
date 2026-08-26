@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Core Tech Stacks & Tools
+### 🛠️ Core Tech Stacks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,php,flutter,firebase,html,css,javascript,mysql,git,vscode,docker" alt="Tech Stacks">
