@@ -26,9 +26,4 @@
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github)
 
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=username-github-kamu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-kamu&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
