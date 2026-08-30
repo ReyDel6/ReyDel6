@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Reynaldi%20Delphiano&fontSize=40&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=25&descAlignY=85&section=header" />
 
-<div align="center">
-  <h1>Hi, I'm Reynaldi Delphiano</h1>
-  <h3>A Web and Mobile Developer</h3>
-</div>
 
 <p align="center">
   I am a developer and student with a strong passion for software development and network operations. With hands-on experience in building web applications using Laravel, converting mobile apps, and exploring network engineering, I am continuously expanding my technical skill set.
