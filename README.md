@@ -25,3 +25,4 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github)
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
