@@ -24,5 +24,16 @@
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github)
 
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyDel6/ReyDel6/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyDel6/ReyDel6/output/github-snake.svg" />
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ReyDel6/ReyDel6/output/github-snake.svg" />
+</picture>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
