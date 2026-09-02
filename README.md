@@ -38,6 +38,8 @@
 
 ---
 
+---
+
 ### 📫 Connect with Me
 
 <div align="center">
@@ -47,6 +49,10 @@
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/reynaldi_delphiano__/">
 <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@rajajasa7/">
+<img src="https://img.shields.io/badge/TikTok-171717?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:delphianor@gmail.com">
