@@ -43,7 +43,7 @@
 ### 📫 Connect with Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/reynaldi-delphiano/">
+<a href="https://www.linkedin.com/in/reynaldi-delphiano-2b6b79120/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
