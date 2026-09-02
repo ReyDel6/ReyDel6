@@ -74,6 +74,12 @@
 <a href="mailto:delphianor@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=108981&labelColor=0A101F" alt="Email" />
 </a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Profile_Views-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" alt="Profile Views" />
+&nbsp;&nbsp;
+<a href="https://github.com/ReyDel6?tab=followers">
+<img src="https://img.shields.io/badge/Followers-0A101F?style=for-the-badge&logo=github&logoColor=10B981&labelColor=0A101F" alt="GitHub Followers" />
+</a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=100&section=footer" />
